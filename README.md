@@ -1,4 +1,7 @@
 # Housing-Price-Predicition
+
+IMPORTANT** Press "RAW"
+
 A simple machine-learning algorithm, that takes the price, amount of bedrooms and bathrooms, square footage, and year that it was built of a house in an area, then predicts the price of a house based on the data inputted
 
 When running this program, it must be in the format "./estimate train.txt data.txt"; because it must read train.txt first in order to function. The input format must
